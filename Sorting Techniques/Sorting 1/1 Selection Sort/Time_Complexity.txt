@@ -1,0 +1,18 @@
+for the first time  it runs for n
+for the next n-1
+for the next n-2
+.
+.
+.
+.
+.
+runs for 1 
+which is nothing but 
+n + n-1 + n-2 ......... + 2 + 1
+which is nothing but sum of the first n numbers 
+n(n+1)/2
+which is n^2 + n/2
+and we ignore the terms in sum in the time complexity 
+hence the time complexity is n^2 
+and this is the best, average and worst time complexity
+for selection sort

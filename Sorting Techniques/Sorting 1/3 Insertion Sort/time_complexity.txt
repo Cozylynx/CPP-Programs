@@ -1,0 +1,12 @@
+the inner loop runs for the 0 time
+then for 1 time
+then for 2 times
+then for 3 times 
+till n times
+so the time complexity will be sum of n natural numbers
+n(n+1)/2
+hence the time complexity will be n^2.
+average and worst case is n^2
+
+
+But the best complextiy  will be O(n)

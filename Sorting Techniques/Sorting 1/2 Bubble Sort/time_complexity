@@ -1,0 +1,25 @@
+it is running for 0 - n-1
+then              0 - n-2
+then              0 - n-3
+                  .   
+                  .
+                  .
+                  .
+                  0 - 2  
+                  0 - 1
+
+we can say that this is 
+n + n-1 + n-2 + n-2 ........ + 2 + 1
+which is nothing but sum of first n numbers
+so, n(n+1)/2
+and time complexity will be n^2.
+
+But this is the Worst or the average complexity
+
+For example 2 3 5 15 20
+if everything is in the correct order 
+the array is in the ascending order 
+and we should not do any swaps.
+
+best case will run for O(n)
+if we optimise our code.
